@@ -8,6 +8,7 @@ Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-163
 
 ### / in my box /
 [![python & django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+[![Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 [![frontends](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 [![databases](https://skillicons.dev/icons?i=sqlite,mongodb,mysql)](https://skillicons.dev)
 [![tools](https://skillicons.dev/icons?i=aws,postman,docker)](https://skillicons.dev)
